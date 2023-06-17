@@ -1,16 +1,15 @@
-### Hi there 👋
+<https://www.chrisnj.com>
 
-<!--
-**chrisnjcom/chrisnjcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the "official" siterip of chrisnj.com in torrent form:
 
-Here are some ideas to get you started:
+`magnet:?xt=urn:btih:biquqexfb6i4zinyojbmalgktxvzi62o`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have moved on to other things, but if you want to save anything from the site, this is your chance.
+
+Torrent Tips:
+
+1. Seeding will be slow, but steady.  Be patient.  It will most likely take several weeks to a month for you to download the full data set.  Also, make sure you have the hard drive space available before you start downloading.
+
+2. Some torrent clients may have trouble with the large data set.  If you're having trouble, or things are not working as expected, I would recommend trying the `Transmission` or `Tixati` clients to see if that helps.
+
+3. The torrent is publicly available and tracked on the DHT network.  If you're having trouble bootstrapping or finding peers, try manually adding trackers.  At the time of writing, <https://github.com/ngosang/trackerslist> is a good source to find up-to-date trackers that can help bootstrap your initial connection.
