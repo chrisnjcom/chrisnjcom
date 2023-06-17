@@ -1,4 +1,4 @@
-<https://www.chrisnj.com>
+<http://www.chrisnj.com>
 
 This is the "official" siterip of chrisnj.com in torrent form:
 
